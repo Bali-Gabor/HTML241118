@@ -1,0 +1,68 @@
+body{
+    background-color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#tartalom{
+    margin: 0 auto;
+    background-color: lightgray;
+    width: 800px;
+    border: 2px black solid;
+}
+
+#fejlec{
+    cursor: pointer;
+    background-position: cover;
+}
+
+#menu{
+    background-color: black;
+    font-variant: small-caps;
+    text-align: center;
+    color:white;
+    padding: 20px;
+}
+
+a:link{
+    color:white;
+    text-decoration: none;
+}
+
+
+a:hover{
+    color:white;
+    text-decoration: underline;    
+}
+
+a:visited{
+    color:white;
+    text-decoration: none;
+}
+
+h1{
+    text-align: center;
+}
+span{
+    color: green;
+    font-weight: bold;
+}
+#szoveg{
+    text-align: justify;
+    padding: 10px;
+}
+li{
+    list-style-type: circle;
+    list-style-position: outside;
+}
+#kep{
+    float: left;
+    padding-right: 10px;
+}
+#jatekos{
+    float: right;
+    padding-left: 10px;
+}
+#link{
+    text-align: center;
+    padding: 10px;
+}
